@@ -27,7 +27,7 @@ export default function RootLayout({
           <li className="mx-4"><Link href="/#">Funding</Link></li>
           <li className="mx-4"><Link href="/investors">Investors</Link></li>
           <li className="mx-4"><Link href="/company">company</Link></li>
-          <li className="mx-4"><Link href="/#">about us</Link></li>
+          <li className="mx-4"><Link href="/about-us">about us</Link></li>
           <li className="mx-4"><Link href="/#">FAQ</Link></li>
           <li className="mx-4"><Link href="/#">Portfolio</Link></li>
 
